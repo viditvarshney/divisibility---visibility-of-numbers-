@@ -1,10 +1,10 @@
 # divisibility---visibility-of-numbers-
 #---------------------------------------------------------------------------------------------------------------------------------------
-######################################################################
-MADE BY VIDIT VARSHNEY ############################################
- PASSION TO PROGRAM ############################################
- #############################################################################################
-# QUES A program to find the numbers which are divisible by 3 and 7 but are not divisible by 5 and one more thing the output must be separated by comma (" ," )
+
+MADE BY VIDIT VARSHNEY 
+ PASSION TO PROGRAM
+ 
+ # QUES A program to find the numbers which are divisible by 3 and 7 but are not divisible by 5 and one more thing the output must be separated by comma (" ," )
 #----------------------------------------------------------------------------------------------------------------------------------------
  HINTS:-
  Consider use range(#begin, #end) method
@@ -40,4 +40,4 @@ SO FOR THIS WE HAVE TO USE A LITLE CHANGE WHILE UPDATING A LIST WE MAKE ALL NUMB
  
  #---------------------------------------------------------------------------------------------
  
- # IF REALLY HELPS YOU CLICK THAT STAR BUTTON
+ # IF REALLY HELPS YOU CLICK THAT STAR BUTTON ON THE ABOVE RIGHT SIDE 
