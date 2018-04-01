@@ -1,0 +1,11 @@
+L=[]
+for i in range(2000,3201):
+    if i%3==0 and i%7==0 and i%5!=0:
+        L.append(str(i))
+print(','.join(L))        
+    
+ # the purpose of using for loop is that    
+# use for loop to give a range between 2000 and 3200 as per the question asks    
+#then i use if loop to apply conditions 
+#and after that i update the list , i use str(i) because at last we use .join() we will only works on string so we simply update my output with string and the use .join()
+#we got output 
